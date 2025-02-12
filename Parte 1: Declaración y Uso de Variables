@@ -1,0 +1,28 @@
+//creando variables 
+int numE;
+double numD;
+string nombre;
+bool falso;
+
+//Pidiendo los datos al usurio
+Console.WriteLine("Escribe un numero entero");
+numE = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Ingresar un numero decimal ");
+numD = Convert.ToDouble(Console.ReadLine());
+
+Console.WriteLine(" Ingrese su nombre o un texto ");
+nombre = Console.ReadLine();
+
+Console.WriteLine("Ingresa un valor booleano (true o false):");
+falso = Convert.ToBoolean(Console.ReadLine());
+
+
+
+
+//mostrar los datos 
+
+Console.WriteLine("EL numero entero ingresado es: " + numE);
+Console.WriteLine ("El numero decimal ingresado es: " + numD);
+Console.WriteLine("El nombre ingresado es: " + nombre);
+Console.WriteLine("El valor booleano ingresado es: " + falso);
