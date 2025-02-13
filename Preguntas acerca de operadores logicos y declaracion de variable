@@ -1,0 +1,11 @@
+# Preguntas 1 
+
+1. ¿Para qué crees que se usan los operadores lógicos en programación?
+- En mi poca experiencia se que se  usan para hacer comparativas de cualquier tipo de dato, para poder evalaurlo en diferentes ocaciones 
+y facilitarno el trabajo de enredardo mas con otro tipo de soluciones par anuesto codigo y asi poder obtener el resultado deseado dependiendo 
+de la situacion. 
+
+2. ¿Por qué es importante declarar correctamente el tipo de dato de una variable?
+Porque imaginemonos que vamos a utilizar datos en los cuales no sabemos si el resultado nos devolvera un numero con . y decimales y nosotros
+declarar esa varibale de tipo int entoces automaticamente nos dará error por que declaramo que nuestra cantidad sera entera pero en verdad 
+esta cantidad contien un numero con decimales y por eso y muchos motivos mas en importante declarar correctamente nuestras variables 
