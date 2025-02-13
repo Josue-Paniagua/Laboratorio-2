@@ -1,0 +1,16 @@
+Enunciado 1: Clasificación de edad
+Un programa debe determinar la categoría de una persona según su edad:
+R// La estructura que yo usaria es la de if-else, *porque ya que con este tengo el control de que si no es una cosa es la otra y si no es esa es la otra y asi sucesivamente hasta llegar al resultado 
+que deseo sin necesidad de tener un valor en especifico.
+
+
+Enunciado 2: Día de la semana
+Se quiere crear un programa que reciba un número del 1 al 7 y devuelva el nombre del día correspondiente.
+R// En este yo usaria switch, porque el switch es diferente al if el switch en donde podemos sacar su pontencial es cunado los valores ya son fijos y solo como su palabra lo dice solo es se pasar o cambiar depenediedno del valor ya designado 
+y en este caso como cada numero equivale a un dia de la semana con un simple switch ya obtendremos nuestir resultado.
+
+Enunciado 3: Verificación de acceso
+Un usuario intenta iniciar sesión en una aplicación. Debes verificar:
+R// En este yo usaria el if-else ya que hablamos de contraseñas y usuarios el if nos ayudaria a que por ejemplo el nombre de usuario o la contraseña esten incorrectos esta nos crea un bucle por asi
+decirlo en el cual nos mantendremos hast colocar la contrasela correcta o usuario algo que con el switch seria complicado ya que no sabemos la cantidad diferente de usuarios y contraseñas que podrian 
+existir en nuestro sisemta.
